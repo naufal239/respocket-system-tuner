@@ -1,0 +1,7 @@
+*.tsx linguist-detectable
+*.woff2 binary
+src/**/*.tsx linguist-detectable
+*.min.js linguist-generated
+public/** linguist-vendored
+*.htm linguist-vendored 
+# eof 15636313
